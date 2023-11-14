@@ -1,0 +1,11 @@
+C:/Users/besta/Desktop/Flutter/flutter_practice/exrate/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/besta/Desktop/Flutter/flutter_practice/exrate/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/besta/Desktop/Flutter/flutter_practice/exrate/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/besta/Desktop/Flutter/flutter_practice/exrate/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/besta/Desktop/Flutter/flutter_practice/exrate/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/besta/Desktop/Flutter/flutter_practice/exrate/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/besta/Desktop/Flutter/flutter_practice/exrate/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/besta/Desktop/Flutter/flutter_practice/exrate/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/besta/Desktop/Flutter/flutter_practice/exrate/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/besta/Desktop/Flutter/flutter_practice/exrate/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/besta/Desktop/Flutter/flutter_practice/exrate/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

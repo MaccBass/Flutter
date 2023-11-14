@@ -1,0 +1,10 @@
+^C:\USERS\BESTA\DESKTOP\FLUTTER\FLUTTER_PRACTICE\EXRATE\BUILD\WINDOWS\CMAKEFILES\37E32E0C63A2405614E9C491C821A49F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/besta/Desktop/Flutter/flutter_practice/exrate/windows -BC:/Users/besta/Desktop/Flutter/flutter_practice/exrate/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/besta/Desktop/Flutter/flutter_practice/exrate/build/windows/exrate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
